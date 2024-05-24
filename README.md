@@ -9,3 +9,16 @@
   <a href="mailto:tejasbharambe1999@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
    <a href="https://www.instagram.com/tejas_bharambe/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </div>
+
+
+<h3 align="left">📊 GitHub Activity:</h3>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=tejasb15&show_icons=true&theme=dark&locale=en" alt="tejasb15" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=tejasb15&show_icons=true&theme=dark&locale=en&layout=compact" alt="tejasb15" /></td>
+  </tr>
+</table>
+
+<div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tejasb15&theme=dark" alt="tejasb15" /></p>
+  </div>
