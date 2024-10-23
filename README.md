@@ -1,30 +1,57 @@
 ### Hello  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24"> 
-### <img src="https://komarev.com/ghpvc/?username=tejasb15&label=Profile%20views&color=0e75b6&style=flat" alt="tejasb15" />
 
-<h1 align="center">👋 Hi, I'm <a href="www.linkedin.com/in/tejas-n-bharambe" target="_blank"> Tejas Bharambe; </a></h1>
+[![](https://visitcount.itsvg.in/api?id=tejasb15&icon=0&color=3)](https://visitcount.itsvg.in)
+
+<h1 align="center">👋 Hi, I'm <a href="www.linkedin.com/in/tejas-n-bharambe" target="_blank"> Tejas Bharambe </a></h1>
+
+I'm a passionate Full Stack Developer and AWS Cloud Enthusiast with hands-on experience in building web applications, cloud-based solutions, and exploring serverless architectures.
+
 <h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F76407&random=false&width=435&lines=Full+Stack+Web+Developer+with+AWS+%3A);Front+End+Developer+%3A);Back+End+Developer+%3A)" alt="Typing SVG" /></h3>
 
-<h3 align="left">📲 Connect with me:</h3>
+
+
+### 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=tejasb15&theme=chartreuse-dark&no-frame=false&no-bg=false&margin-w=40)
+
+
+### 🚀 About Me:
+
+- 🔭 I’m currently working on **Ecommerce SpringBoot Project**
+- 🎓 Completed multiple **AWS Educate** badges including Serverless, Web Application Development, Cloud Operations, and Security.
+- 🌱 Actively learning and working towards the **AWS Cloud Practitioner certification**.
+- 👨‍💻 Working on projects involving **Django**, **Spring Boot**, **Python**, and **Java**, and integrating cloud services.
+- 💬 Ask me about **JavaScript, Python, Java, AWS**
+- 📚 Exploring the world of **serverless applications**, **AWS services**, and contributing to open-source.
+- 👨‍💻 All of my projects are available at [Portfolio](https://tejasbportfolio.netlify.app/)
+- 📫 How to reach me **You can reach me via email at tejasbharambe1999@gmail.com or through [LinkedIn](https://www.linkedin.com/in/tejasb15)**
+- 📄 Know about my experiences **Check out my [Resume](https://flowcv.com/resume/1kk3ejkl19)**
+- ⚡ Fun fact **I love solving puzzles and coding challenges in my free time!**
+
+
+### 📲 Connect with me:
 <div align="left">
-  <a href="https://www.linkedin.com/in/tejasb15/" target="blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:tejasbharambe1999@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-   <a href="https://www.instagram.com/tejas_bharambe/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://codepen.io/tejas-bharambe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="tejas-bharambe" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tejasb15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tejasb15" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/tejasb15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tejasb15" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/tejas_bharambe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tejas_bharambe" height="30" width="40" /></a>
 </div>
 
-<h3 align="left">🚀 Tech Stack:</h3>
+### 🔧 Technologies & Tools:
 <div align="left">
  
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,python,django,flask,java,spring,c,mysql,mongodb,sqlite,aws,windows,linux,git,github,vscode,pycharm,eclipse,postman&perline=10)](https://github.com/tejasb15/)
+
 </div>
 
 <h3 align="left">📊 GitHub Activity:</h3>
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=tejasb15&show_icons=true&theme=dark&locale=en" alt="tejasb15" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=tejasb15&show_icons=true&theme=dark&locale=en&layout=compact" alt="tejasb15" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=tejasb15&show_icons=true&theme=chartreuse-dark&locale=en" alt="tejasb15" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=tejasb15&show_icons=true&theme=chartreuse-dark&locale=en&layout=compact" alt="tejasb15" /></td>
   </tr>
 </table>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tejasb15&theme=dark" alt="tejasb15" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tejasb15&theme=chartreuse-dark" alt="tejasb15" /></p>
   </div>
