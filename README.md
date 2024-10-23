@@ -1,4 +1,5 @@
 ### Hello  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24"> 
+### <img src="https://komarev.com/ghpvc/?username=tejasb15&label=Profile%20views&color=0e75b6&style=flat" alt="tejasb15" />
 
 <h1 align="center">👋 Hi, I'm <a href="www.linkedin.com/in/tejas-n-bharambe" target="_blank"> Tejas Bharambe; </a></h1>
 <h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F76407&random=false&width=435&lines=Full+Stack+Web+Developer+with+AWS+%3A);Front+End+Developer+%3A);Back+End+Developer+%3A)" alt="Typing SVG" /></h3>
@@ -12,24 +13,8 @@
 
 <h3 align="left">🚀 Tech Stack:</h3>
 <div align="left">
-  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> 
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
-  <img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="django" />
-  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+  [![AWS](https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,python,django,flask,java,spring,c,mysql,mongodb,sqlite,aws,windows,linux,git,github,vscode,pycharm,eclipse,postman&tab=2&perline=10](https://github.com/tejasb15)
 </div>
-
-
-<h3 align="left">🗄️ Databases:</h3>
-<div align="left">
-  <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
-</div><br/>
-
 
 <h3 align="left">📊 GitHub Activity:</h3>
 <table>
