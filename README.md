@@ -13,7 +13,8 @@
 
 <h3 align="left">🚀 Tech Stack:</h3>
 <div align="left">
-  [![AWS](https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,python,django,flask,java,spring,c,mysql,mongodb,sqlite,aws,windows,linux,git,github,vscode,pycharm,eclipse,postman&tab=2&perline=10](https://github.com/tejasb15)
+ 
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,python,django,flask,java,spring,c,mysql,mongodb,sqlite,aws,windows,linux,git,github,vscode,pycharm,eclipse,postman&perline=10)](https://github.com/tejasb15/)
 </div>
 
 <h3 align="left">📊 GitHub Activity:</h3>
