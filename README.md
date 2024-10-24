@@ -10,12 +10,12 @@ I'm a passionate Full Stack Developer and AWS Cloud Enthusiast with hands-on exp
 
 
 
-### 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=tejasb15&theme=chartreuse-dark&no-frame=false&no-bg=false&margin-w=40)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=tejasb15&theme=chartreuse-dark&no-frame=false&no-bg=false&margin-w=40)
 
 
-### 🚀 About Me:
+## 🚀 About Me:
 
 - 🔭 I’m currently working on **Ecommerce SpringBoot Project**
 - 🎓 Completed multiple **AWS Educate** badges including Serverless, Web Application Development, Cloud Operations, and Security.
@@ -29,7 +29,7 @@ I'm a passionate Full Stack Developer and AWS Cloud Enthusiast with hands-on exp
 - ⚡ Fun fact **I love solving puzzles and coding challenges in my free time!**
 
 
-### 📲 Connect with me:
+## 📲 Connect with me:
 <div align="left">
 <a href="https://codepen.io/tejas-bharambe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="tejas-bharambe" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tejasb15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tejasb15" height="30" width="40" /></a>
@@ -37,19 +37,22 @@ I'm a passionate Full Stack Developer and AWS Cloud Enthusiast with hands-on exp
 <a href="https://www.leetcode.com/tejas_bharambe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tejas_bharambe" height="30" width="40" /></a>
 </div>
 
-### 🔧 Technologies & Tools:
-<div align="left">
+## 🔧 Technologies & Tools:
+
+<div align="left"> 
  
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,python,django,flask,java,spring,c,mysql,mongodb,sqlite,aws,windows,linux,git,github,vscode,pycharm,eclipse,postman&perline=10)](https://github.com/tejasb15/)
 
 </div>
 
-<h3 align="left">📊 GitHub Activity:</h3>
+## 📊 GitHub Activity:
+
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=tejasb15&show_icons=true&theme=chartreuse-dark&locale=en" alt="tejasb15" /></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=tejasb15&show_icons=true&theme=chartreuse-dark&locale=en&layout=compact" alt="tejasb15" /></td>
   </tr>
+ <tr></r]rvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvr>
 </table>
 
 <div align="center">
