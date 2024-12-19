@@ -55,7 +55,7 @@ I'm a passionate Full Stack Developer and AWS Cloud Enthusiast with hands-on exp
 </table>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejasb15&theme=chartreuse-dark"  />
+  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=tejasb15&theme=chartreuse-dark&locale=en" alt="tejasb15" /></p>
 </div>
 
 ## 🔝 Top Contributed Repo
