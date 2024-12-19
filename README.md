@@ -55,7 +55,7 @@ I'm a passionate Full Stack Developer and AWS Cloud Enthusiast with hands-on exp
 </table>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=chartreuse-dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ## 🔝 Top Contributed Repo
