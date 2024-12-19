@@ -53,10 +53,10 @@ I'm a passionate Full Stack Developer and AWS Cloud Enthusiast with hands-on exp
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=tejasb15&show_icons=true&theme=chartreuse-dark&locale=en&layout=compact" alt="tejasb15" /></td>
   </tr>
 </table>
-
 <div align="center">
-  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=tejasb15&theme=chartreuse-dark&locale=en" alt="tejasb15" /></p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tejasb15&theme=dark" alt="tejasb15"/>
 </div>
+
 
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=tejasb15&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true)
